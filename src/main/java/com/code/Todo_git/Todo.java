@@ -8,6 +8,6 @@ public class Todo {
 
     @GetMapping("/")
     public String todo() {
-        return "To-do App on dev branch!!!";
+        return "To-do App on dev to main second commit!";
     }
 }
